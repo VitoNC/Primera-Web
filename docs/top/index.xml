@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tops on  Mi Blog Personal</title>
+    <link>http://example.org/top/</link>
+    <description>Recent content in Tops on  Mi Blog Personal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language><atom:link href="http://example.org/top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/top/about/</guid>
+      <description>BLOG PERSONAL DE VÍCTOR NAVARRO CASTILLO: Esta página está orientada a la exposición y la muestra de mis cualidades, gustos y aficiones basados en mis experiencias vitales. En ella también se pueden encontrar elementos de importancia como mi curriculum y los enlaces a mis redes sociales donde podreis conocer más sobre mi.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/top/curriculum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/top/curriculum/</guid>
+      <description>Podeis encontrar mi curículum en el siguiente enlaceCURRÍCULUM </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/top/sobre_mi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/top/sobre_mi/</guid>
+      <description>Aquí podeis encontrar una serie de imágenes explicadas de las experiencias más importantes y que mejor resumen mi pasado y mis aptitudes y actitudes en la actualidad.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/top/viajes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/top/viajes/</guid>
+      <description>[params] header_image = &amp;quot;img/hero.jpg&amp;quot; SEOTitle = &amp;quot;VNC&amp;quot; keyword = &amp;quot;Blog, Victor, Blog Personal, Victor Navarro Castillo&amp;quot; slogan = &amp;quot;Víctor Navarro Castillo&amp;quot; [[params.addtional_menus]] title = &amp;quot;ABOUT&amp;quot; href = &amp;quot;/top/about/&amp;quot; [[params.addtional_menus]] title = &amp;quot;CURRICULUM&amp;quot; href = &amp;quot;/top/curriculum/&amp;quot; [[params.addtional_menus]] title = &amp;quot;SOBRE MI&amp;quot; href = &amp;quot;/top/sobre_mi/&amp;quot; [[params.addtional_menus]] title = &amp;quot;VIAJES&amp;quot; href = &amp;quot;/top/viajes/&amp;quot; </description>
+    </item>
+    
+  </channel>
+</rss>
