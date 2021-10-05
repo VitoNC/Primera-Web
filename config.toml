@@ -1,0 +1,38 @@
+baseURL = 'http://example.org/'
+languageCode = 'es-es'
+title = ' Mi Blog Personal'
+theme = 'hugo-theme-cleanwhite'
+
+
+    [params]
+         header_image = "img/hero.jpg"
+         SEOTitle = "VNC"
+         keyword = "Blog, Victor, Blog Personal, Victor Navarro Castillo"
+         slogan = "Víctor Navarro Castillo"
+
+     [[params.addtional_menus]]
+         title =  "ABOUT"
+         href =  "/top/about/"
+
+     [[params.addtional_menus]]
+         title =  "CURRICULUM"
+         href =  "/top/curriculum/"
+
+     [[params.addtional_menus]]
+         title =  "SOBRE MI"
+         href =  "/top/sobre_mi/"
+
+     [[params.addtional_menus]]
+         title =  "VIAJES"
+         href =  "/top/viajes/"
+
+
+     [params.social]
+         email          = "vitojaca@gmail.com"
+         facebook       = "https://www.facebook.com/victor.navarrocastillo.9/"
+         instagram      = "https://www.instagram.com/?hl=es"
+         github         = "https://github.com/VitoNC"
+         whatsapp       = ""
+
+     [outputs]
+         home = ["HTML", "JSON"]
